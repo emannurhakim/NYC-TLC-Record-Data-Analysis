@@ -40,3 +40,10 @@ Despite a strong trip volume and centralized performance, several key operationa
 
 5. Overreliance on Digital Payment Zones:
     - While digital payments increase revenue, they are heavily concentrated in high-traffic zones, causing potential tip revenue loss in cash-preferred areas.
+  
+
+
+Dibuat untuk memenuhi Capstone Modul 2 - Data Analysis
+oleh Sulaeman Nurhakim
+JCDS 2804-001
+Bootcamp Data Science and Machine Learning
