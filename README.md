@@ -43,7 +43,7 @@ Despite a strong trip volume and centralized performance, several key operationa
   
 
 
-Dibuat untuk memenuhi Capstone Modul 2 - Data Analysis
-oleh Sulaeman Nurhakim
-JCDS 2804-001
-Bootcamp Data Science and Machine Learning
+- Dibuat untuk memenuhi Capstone Modul 2 - Data Analysis
+- oleh Sulaeman Nurhakim
+- JCDS 2804-001
+- Bootcamp Data Science and Machine Learning
